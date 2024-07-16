@@ -5,3 +5,5 @@ This repository contains automation tests for book-related APIs using Rest Assur
 2- Creating new book orders
 3- Modifying existing book orders
 4- Deleting book orders
+
+using GET - PUT - PATCH - DELETE APIs
