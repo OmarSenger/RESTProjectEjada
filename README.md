@@ -1,7 +1,7 @@
 Rest Assured API Automation
 This repository contains automation tests for book-related APIs using Rest Assured. The tests cover the following functionalities:
 
-Fetching book IDs
-Creating new book orders
-Modifying existing book orders
-Deleting book orders
+1- Fetching book IDs
+2- Creating new book orders
+3- Modifying existing book orders
+4- Deleting book orders
